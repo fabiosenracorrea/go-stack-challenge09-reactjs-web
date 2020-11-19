@@ -2,11 +2,11 @@
   "foods": [
     {
       "id": 1,
-      "name": "Ao molho",
+      "available": false,
       "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas.",
-      "price": "19.90",
-      "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "name": "Ao molho",
+      "price": "119.90"
     },
     {
       "id": 2,
